@@ -10,6 +10,7 @@
 # \n 
 # \" \" 
 
+
 print("hey i\'m \"good boy\" \n from ujjain") 
 
 # seprator func
