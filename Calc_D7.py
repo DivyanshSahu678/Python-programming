@@ -1,6 +1,7 @@
 # Calculator 
 
 print("Welcome to the calculator!")
+print("This calculator can perform the following operations: addition, subtraction, multiplication, division, modulus, and floor division.")
 
 a =  50
 b = 10
