@@ -2,7 +2,7 @@
 
 #String slicing 
 
-name = "divyansh"
+name = "Divyansh Sahu"
 print(name[0:8])
 print(name[0:4])
 
