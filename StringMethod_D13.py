@@ -3,7 +3,7 @@
 #String method 
 
 #1. Upper() method
-a = "hello"
+a = "helllo"
 print(a.upper()) #HELLO
 
 #2. Lower() method
@@ -36,7 +36,7 @@ print(a.find("l")) #2
 #11. index() method
 print(a.index("l")) #2
 
-#13. isalnum() method
+#13. isalnum() method  
 print(a.isalnum()) #False
 
 #14. isalpha() method
