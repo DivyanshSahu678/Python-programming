@@ -33,3 +33,6 @@ for b in range(2, 6):
     
 for c in range(2, 10, 2):
     print(c)
+    
+for d in range(3, 30, 3):
+    print(d)
