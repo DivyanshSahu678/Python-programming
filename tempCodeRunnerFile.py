@@ -6,4 +6,3 @@ print(info)
 
 # for key in info.keys():
 #     print(f"The value corresponding to the key {key} is:{info[key]}")
-   
